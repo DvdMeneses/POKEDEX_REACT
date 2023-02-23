@@ -1,0 +1,24 @@
+
+.Card  {
+  background-color: #f9f9f9 !important;
+  border-top-left-radius: 50px !important;
+  border-top-right-radius: 50px !important;
+}
+.ImagemCarde{
+  width: 96px;
+  height:96px;
+  object-fit:contain !important;
+}
+
+.SearchNavBar{
+  margin-right: auto !important;
+}
+
+.ImagemCardeDois{
+  width: 96px;
+  height:96px;
+  object-fit:contain !important;
+
+}
+
+
