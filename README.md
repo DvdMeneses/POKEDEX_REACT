@@ -1,4 +1,5 @@
 # POKEDEX_REACT
+## Status do projeto : FINALIZADO ✅
 ### Objetivo do projeto :
   Criar uma Pokedex(*Site*) utilizando react, css, bootStraps, JavaScript e html. Tinhamos como objetivo listar todos os pekemons por categorias, spells e ordem alfabética.
  
